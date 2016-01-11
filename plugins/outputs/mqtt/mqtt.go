@@ -11,8 +11,8 @@ import (
 
 	paho "git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt.golang.git"
 	"github.com/influxdb/influxdb/client/v2"
-	"github.com/influxdb/telegraf/internal"
-	"github.com/influxdb/telegraf/plugins/outputs"
+	"github.com/ronaldslc/telegraf/internal"
+	"github.com/ronaldslc/telegraf/plugins/outputs"
 )
 
 const MaxClientIdLen = 8

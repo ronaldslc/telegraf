@@ -9,9 +9,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/influxdb/telegraf/internal/config"
-	"github.com/influxdb/telegraf/plugins/inputs"
-	"github.com/influxdb/telegraf/plugins/outputs"
+	"github.com/ronaldslc/telegraf/internal/config"
+	"github.com/ronaldslc/telegraf/plugins/inputs"
+	"github.com/ronaldslc/telegraf/plugins/outputs"
 
 	"github.com/influxdb/influxdb/client/v2"
 )

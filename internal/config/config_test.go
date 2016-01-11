@@ -4,10 +4,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/influxdb/telegraf/plugins/inputs"
-	"github.com/influxdb/telegraf/plugins/inputs/exec"
-	"github.com/influxdb/telegraf/plugins/inputs/memcached"
-	"github.com/influxdb/telegraf/plugins/inputs/procstat"
+	"github.com/ronaldslc/telegraf/plugins/inputs"
+	"github.com/ronaldslc/telegraf/plugins/inputs/exec"
+	"github.com/ronaldslc/telegraf/plugins/inputs/memcached"
+	"github.com/ronaldslc/telegraf/plugins/inputs/procstat"
 	"github.com/stretchr/testify/assert"
 )
 

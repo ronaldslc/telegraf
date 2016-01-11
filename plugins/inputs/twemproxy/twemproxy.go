@@ -7,7 +7,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/influxdb/telegraf/plugins/inputs"
+	"github.com/ronaldslc/telegraf/plugins/inputs"
 )
 
 type Twemproxy struct {

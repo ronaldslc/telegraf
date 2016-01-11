@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"syscall"
 
-	"github.com/influxdb/telegraf/plugins/inputs"
+	"github.com/ronaldslc/telegraf/plugins/inputs"
 )
 
 type NetStats struct {

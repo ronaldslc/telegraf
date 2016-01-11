@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/influxdb/influxdb/client/v2"
-	"github.com/influxdb/telegraf/plugins/outputs"
+	"github.com/ronaldslc/telegraf/plugins/outputs"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

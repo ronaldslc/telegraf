@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/influxdb/telegraf/plugins/inputs"
+	"github.com/ronaldslc/telegraf/plugins/inputs"
 )
 
 const DefaultUsername = "guest"

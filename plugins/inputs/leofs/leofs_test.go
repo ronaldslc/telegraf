@@ -1,7 +1,7 @@
 package leofs
 
 import (
-	"github.com/influxdb/telegraf/testutil"
+	"github.com/ronaldslc/telegraf/testutil"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"io/ioutil"

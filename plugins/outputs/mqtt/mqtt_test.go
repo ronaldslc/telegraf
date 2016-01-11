@@ -3,7 +3,7 @@ package mqtt
 import (
 	"testing"
 
-	"github.com/influxdb/telegraf/testutil"
+	"github.com/ronaldslc/telegraf/testutil"
 	"github.com/stretchr/testify/require"
 )
 

@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/influxdb/telegraf/testutil"
+	"github.com/ronaldslc/telegraf/testutil"
 
 	"github.com/influxdb/influxdb/client/v2"
 	"github.com/stretchr/testify/require"

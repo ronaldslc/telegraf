@@ -10,8 +10,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/influxdb/telegraf/internal"
-	"github.com/influxdb/telegraf/plugins/inputs"
+	"github.com/ronaldslc/telegraf/internal"
+	"github.com/ronaldslc/telegraf/plugins/inputs"
 )
 
 type HttpJson struct {

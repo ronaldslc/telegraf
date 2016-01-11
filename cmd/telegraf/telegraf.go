@@ -8,10 +8,10 @@ import (
 	"os/signal"
 	"strings"
 
-	"github.com/influxdb/telegraf"
-	"github.com/influxdb/telegraf/internal/config"
-	_ "github.com/influxdb/telegraf/plugins/inputs/all"
-	_ "github.com/influxdb/telegraf/plugins/outputs/all"
+	"github.com/ronaldslc/telegraf"
+	"github.com/ronaldslc/telegraf/internal/config"
+	_ "github.com/ronaldslc/telegraf/plugins/inputs/all"
+	_ "github.com/ronaldslc/telegraf/plugins/outputs/all"
 )
 
 var fDebug = flag.Bool("debug", false,

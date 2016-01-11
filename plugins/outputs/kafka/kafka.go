@@ -6,7 +6,7 @@ import (
 
 	"github.com/Shopify/sarama"
 	"github.com/influxdb/influxdb/client/v2"
-	"github.com/influxdb/telegraf/plugins/outputs"
+	"github.com/ronaldslc/telegraf/plugins/outputs"
 )
 
 type Kafka struct {

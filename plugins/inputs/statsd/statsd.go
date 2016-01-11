@@ -12,7 +12,7 @@ import (
 
 	"github.com/influxdb/influxdb/services/graphite"
 
-	"github.com/influxdb/telegraf/plugins/inputs"
+	"github.com/ronaldslc/telegraf/plugins/inputs"
 )
 
 var dropwarn = "ERROR: Message queue full. Discarding line [%s] " +

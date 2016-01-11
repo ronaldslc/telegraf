@@ -16,7 +16,7 @@ import (
 	"github.com/aws/aws-sdk-go/service/kinesis"
 
 	"github.com/influxdb/influxdb/client/v2"
-	"github.com/influxdb/telegraf/plugins/outputs"
+	"github.com/ronaldslc/telegraf/plugins/outputs"
 )
 
 type KinesisOutput struct {

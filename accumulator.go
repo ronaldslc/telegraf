@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/influxdb/telegraf/internal/config"
+	"github.com/ronaldslc/telegraf/internal/config"
 
 	"github.com/influxdb/influxdb/client/v2"
 )

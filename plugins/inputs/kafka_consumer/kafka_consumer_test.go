@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/influxdb/influxdb/models"
-	"github.com/influxdb/telegraf/testutil"
+	"github.com/ronaldslc/telegraf/testutil"
 
 	"github.com/Shopify/sarama"
 	"github.com/stretchr/testify/assert"

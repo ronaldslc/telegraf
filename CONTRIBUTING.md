@@ -75,7 +75,7 @@ package simple
 
 // simple.go
 
-import "github.com/influxdb/telegraf/plugins/inputs"
+import "github.com/ronaldslc/telegraf/plugins/inputs"
 
 type Simple struct {
     Ok bool
@@ -171,7 +171,7 @@ package simpleoutput
 
 // simpleoutput.go
 
-import "github.com/influxdb/telegraf/plugins/outputs"
+import "github.com/ronaldslc/telegraf/plugins/outputs"
 
 type Simple struct {
     Ok bool

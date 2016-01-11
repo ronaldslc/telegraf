@@ -6,7 +6,7 @@ import (
 
 	"github.com/shirou/gopsutil/process"
 
-	"github.com/influxdb/telegraf/plugins/inputs"
+	"github.com/ronaldslc/telegraf/plugins/inputs"
 )
 
 type SpecProcessor struct {

@@ -11,8 +11,8 @@ import (
 	"strings"
 
 	"github.com/influxdb/influxdb/client/v2"
-	"github.com/influxdb/telegraf/internal"
-	"github.com/influxdb/telegraf/plugins/outputs"
+	"github.com/ronaldslc/telegraf/internal"
+	"github.com/ronaldslc/telegraf/plugins/outputs"
 )
 
 type Datadog struct {

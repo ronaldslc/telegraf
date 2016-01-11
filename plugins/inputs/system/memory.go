@@ -3,7 +3,7 @@ package system
 import (
 	"fmt"
 
-	"github.com/influxdb/telegraf/plugins/inputs"
+	"github.com/ronaldslc/telegraf/plugins/inputs"
 )
 
 type MemStats struct {

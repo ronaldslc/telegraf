@@ -3,7 +3,7 @@ package prometheus
 import (
 	"errors"
 	"fmt"
-	"github.com/influxdb/telegraf/plugins/inputs"
+	"github.com/ronaldslc/telegraf/plugins/inputs"
 	"github.com/prometheus/common/expfmt"
 	"github.com/prometheus/common/model"
 	"io"

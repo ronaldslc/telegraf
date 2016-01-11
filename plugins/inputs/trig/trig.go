@@ -3,7 +3,7 @@ package trig
 import (
 	"math"
 
-	"github.com/influxdb/telegraf/plugins/inputs"
+	"github.com/ronaldslc/telegraf/plugins/inputs"
 )
 
 type Trig struct {

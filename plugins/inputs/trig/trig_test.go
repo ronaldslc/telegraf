@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/influxdb/telegraf/testutil"
+	"github.com/ronaldslc/telegraf/testutil"
 )
 
 func TestTrig(t *testing.T) {
